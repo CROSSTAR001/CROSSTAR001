@@ -1,5 +1,4 @@
-# 🎮 Ashwin Sabu
-
+# 🎮 Ashwin Sabu 
 **`Computer Enthusiast`**
 
 I'm currently studying as a Computer Engineer in Amrita Vishwa Vidyapeetham, Amritapuri in the CSE-AIE B.Tech batch.
@@ -22,15 +21,30 @@ I'm currently studying as a Computer Engineer in Amrita Vishwa Vidyapeetham, Amr
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=CROSSTAR001&show_icons=true&theme=radical)
+![Ashwint's GitHub stats](https://github-readme-stats.vercel.app/api?username=CROSSTAR001&show_icons=true&theme=radical)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+
+
+#
+
+### 📲 Socials
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.iconscout.com/icon/free/png-512/twitter-241-721979.png?f=avif&w=512"/>
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+<br />
+
+#
+
+ ### 👨‍💻Most used languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CROSSTAR001)](https://github.com/cROSSTAR001/github-readme-stats)
 
 #
 
 <details>
- <summary><h3>👨‍💻 My hobbies and interests </h3></summary>
+<summary><h3>👨‍💻 My hobbies and interests </h3></summary>
    I read books and play video games :)
+   
+   Connect with me on [Twitter](https://twitter.com/cstarxyvil2k369) and
+  [LinkedIn](https://www.linkedin.com/in/ashwin-sabu-31a0a0b4/) 
 
-[website]: https://fkcodes.com
-[youtube]: https://youtube.com/fknight
+
