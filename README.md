@@ -35,8 +35,13 @@ I'm currently studying as a Computer Engineer in Amrita Vishwa Vidyapeetham, Amr
 #
 
 ### 📲 Socials
+<a href="https://twitter.com/cstarxyvil2k369">
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.iconscout.com/icon/free/png-512/twitter-241-721979.png?f=avif&w=512"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ashwin-sabu-31a0a0b4/">
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+</a>
 <br />
 
 #
