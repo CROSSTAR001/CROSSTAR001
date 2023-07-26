@@ -35,7 +35,7 @@ I'm currently studying as a Computer Engineer in Amrita Vishwa Vidyapeetham, Amr
 #
 
 ### 📲 Socials
-<a href="https://twitter.com/cstarxyvil2k369">
+<a href="https://twitter.com/ashwin1623_sabu">
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.iconscout.com/icon/free/png-512/twitter-241-721979.png?f=avif&w=512"/>
 </a>
 
@@ -56,7 +56,7 @@ I'm currently studying as a Computer Engineer in Amrita Vishwa Vidyapeetham, Amr
 <summary><h3>👨‍💻 My hobbies and interests </h3></summary>
    I read books and play video games :)
    
-   Connect with me on [Twitter]([https://twitter.com/cstarxyvil2k369](https://twitter.com/ashwin1623_sabu)) and
+   Connect with me on [Twitter](https://twitter.com/ashwin1623_sabu) and
   [LinkedIn](https://www.linkedin.com/in/ashwin-sabu-31a0a0b4/) 
 
 
